@@ -9,7 +9,7 @@ export const useTaskStore = defineStore('taskStore',{
             {id: 3, title: 'do my homework', isFav: true},
             {id: 4, title: 'study for exam', isFav: false},
         ],
-        name: 'Ruba Alahmad',
+        
         
 
     })
